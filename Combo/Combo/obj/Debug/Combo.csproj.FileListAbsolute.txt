@@ -1,0 +1,11 @@
+C:\Users\matheus.bpaulino\source\repos\Combo\Combo\bin\Debug\Combo.exe.config
+C:\Users\matheus.bpaulino\source\repos\Combo\Combo\bin\Debug\Combo.exe
+C:\Users\matheus.bpaulino\source\repos\Combo\Combo\bin\Debug\Combo.pdb
+C:\Users\matheus.bpaulino\source\repos\Combo\Combo\obj\Debug\Combo.csproj.AssemblyReference.cache
+C:\Users\matheus.bpaulino\source\repos\Combo\Combo\obj\Debug\Combo.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.bpaulino\source\repos\Combo\Combo\obj\Debug\Combo.Form1.resources
+C:\Users\matheus.bpaulino\source\repos\Combo\Combo\obj\Debug\Combo.Properties.Resources.resources
+C:\Users\matheus.bpaulino\source\repos\Combo\Combo\obj\Debug\Combo.csproj.GenerateResource.cache
+C:\Users\matheus.bpaulino\source\repos\Combo\Combo\obj\Debug\Combo.csproj.CoreCompileInputs.cache
+C:\Users\matheus.bpaulino\source\repos\Combo\Combo\obj\Debug\Combo.exe
+C:\Users\matheus.bpaulino\source\repos\Combo\Combo\obj\Debug\Combo.pdb
